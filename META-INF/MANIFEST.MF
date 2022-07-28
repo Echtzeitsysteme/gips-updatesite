@@ -4,3 +4,4 @@ Bundle-Name: GIPS-updatesite
 Bundle-SymbolicName: gips-updatesite
 Bundle-Version: 1.0.0.qualifier
 Automatic-Module-Name: gips.updatesite
+Bundle-Vendor: Real-Time Systems Lab - TU Darmstadt
