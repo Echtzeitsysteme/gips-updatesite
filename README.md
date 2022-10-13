@@ -6,6 +6,8 @@ This repository holds all releases for the GIPS Eclipse plug-in update site.
 
 GIPS can be installed via https://echtzeitsysteme.github.io/gips-updatesite/snapshot/updatesite/
 
+Please notice: You need at least Eclipse 2022-09.
+
 (Please notice:
 This section is for installation purpose only.
 If you want to develop GIPS, use [these steps](https://github.com/Echtzeitsysteme/gips#installation-development) to setup your development environment.)
