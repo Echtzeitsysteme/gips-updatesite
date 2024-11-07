@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.emoflon.gips.feature_1.0.0.202407261536.jar" id="org.emoflon.gips.feature" version="1.0.0.202407261536">
+   <feature url="features/org.emoflon.gips.feature_1.0.0.202411071148.jar" id="org.emoflon.gips.feature" version="1.0.0.202411071148">
       <category name="gips"/>
    </feature>
    <category-def name="gips" label="GIPS">
       <description>
-         Graph-Based ILP Problem Specification Tool
+         Graph-Based (M)ILP Problem Specification Tool
       </description>
    </category-def>
 </site>
